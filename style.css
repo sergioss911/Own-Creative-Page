@@ -39,4 +39,8 @@ body {
         font-style: normal;
         font-size:200%;
         color:Red;
-         }
+}
+#video {
+  margin-right:auto;
+  margin-left:auto;
+}
